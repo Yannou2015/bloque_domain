@@ -1,1 +1,56 @@
 
+# Temu
+0.0.0.0 temu.com
+0.0.0.0 *.temu.com
+0.0.0.0 temucontent.com
+0.0.0.0 *.temucontent.com
+0.0.0.0 pinduoduo.com
+0.0.0.0 *.pinduoduo.com
+
+# Shein
+0.0.0.0 shein.com
+0.0.0.0 *.shein.com
+0.0.0.0 sheinstatic.com
+0.0.0.0 *.sheinstatic.com
+0.0.0.0 sheinassets.com
+0.0.0.0 *.sheinassets.com
+0.0.0.0 zoeymall.com
+0.0.0.0 *.zoeymall.com
+
+# TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 *.tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 *.tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 *.tiktokv.com
+0.0.0.0 muscdn.com
+0.0.0.0 *.muscdn.com
+0.0.0.0 byteoversea.com
+0.0.0.0 *.byteoversea.com
+0.0.0.0 bytedance.net
+0.0.0.0 *.bytedance.net
+0.0.0.0 bytedns.net
+0.0.0.0 *.bytedns.net
+0.0.0.0 bytedapi.com
+0.0.0.0 *.bytedapi.com
+0.0.0.0 byted-static.com
+0.0.0.0 *.byted-static.com
+
+# Facebook
+0.0.0.0 facebook.com
+0.0.0.0 *.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 *.fbcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 *.fbcdn.com
+0.0.0.0 messenger.com
+0.0.0.0 *.messenger.com
+0.0.0.0 fbsbx.com
+0.0.0.0 *.fbsbx.com
+
+# Instagram
+instagram.com
+*.instagram.com
+cdninstagram.com
+*.cdninstagram.com
