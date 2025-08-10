@@ -36,6 +36,7 @@
 0.0.0.0 *.bytedapi.com
 0.0.0.0 byted-static.com
 0.0.0.0 *.byted-static.com
+0.0.0.0 *.tiktokcdn-eu.com
 
 # Facebook
 0.0.0.0 facebook.com
