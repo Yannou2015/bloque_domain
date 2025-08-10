@@ -54,3 +54,77 @@ instagram.com
 *.instagram.com
 cdninstagram.com
 *.cdninstagram.com
+
+# Temu & Pinduoduo
+0.0.0.0 temu.com
+0.0.0.0 *.temu.com
+0.0.0.0 temucontent.com
+0.0.0.0 *.temucontent.com
+0.0.0.0 pinduoduo.com
+0.0.0.0 *.pinduoduo.com
+0.0.0.0 pddpic.com
+0.0.0.0 *.pddpic.com
+0.0.0.0 pandabox.com
+0.0.0.0 *.pandabox.com
+
+# Shein
+0.0.0.0 shein.com
+0.0.0.0 *.shein.com
+0.0.0.0 sheinstatic.com
+0.0.0.0 *.sheinstatic.com
+0.0.0.0 sheinassets.com
+0.0.0.0 *.sheinassets.com
+0.0.0.0 zoeymall.com
+0.0.0.0 *.zoeymall.com
+0.0.0.0 cdn-shein.com
+0.0.0.0 *.cdn-shein.com
+0.0.0.0 sheinservices.com
+0.0.0.0 *.sheinservices.com
+
+# TikTok & Bytedance
+0.0.0.0 tiktok.com
+0.0.0.0 *.tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 *.tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 *.tiktokv.com
+0.0.0.0 muscdn.com
+0.0.0.0 *.muscdn.com
+0.0.0.0 byteoversea.com
+0.0.0.0 *.byteoversea.com
+0.0.0.0 bytedance.net
+0.0.0.0 *.bytedance.net
+0.0.0.0 bytedns.net
+0.0.0.0 *.bytedns.net
+0.0.0.0 bytedapi.com
+0.0.0.0 *.bytedapi.com
+0.0.0.0 byted-static.com
+0.0.0.0 *.byted-static.com
+0.0.0.0 byteimg.com
+0.0.0.0 *.byteimg.com
+0.0.0.0 amemv.com
+0.0.0.0 *.amemv.com
+
+# Facebook
+0.0.0.0 facebook.com
+0.0.0.0 *.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 *.fbcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 *.fbcdn.com
+0.0.0.0 messenger.com
+0.0.0.0 *.messenger.com
+0.0.0.0 fbsbx.com
+0.0.0.0 *.fbsbx.com
+0.0.0.0 m.me
+0.0.0.0 *.m.me
+0.0.0.0 whatsapp.net
+0.0.0.0 *.whatsapp.net
+
+# Instagram
+0.0.0.0 instagram.com
+0.0.0.0 *.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 *.cdninstagram.com
+0.0.0.0 instastories.com
+0.0.0.0 *.instastories.com
