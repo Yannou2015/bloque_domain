@@ -141,4 +141,11 @@ cdninstagram.com
 
 # GOOGLE
 0.0.0.0 kidsmanagement-pa.googleapis.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 optimizationguide-pa.googleapis.com
+
+
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 js.hsforms.net
+
 
