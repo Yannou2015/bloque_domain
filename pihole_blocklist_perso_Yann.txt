@@ -16,6 +16,9 @@
 0.0.0.0 *.sheinassets.com
 0.0.0.0 zoeymall.com
 0.0.0.0 *.zoeymall.com
+0.0.0.0 shein.ltwebstatic.com
+0.0.0.0 img.shein.com
+
 
 # TikTok
 0.0.0.0 tiktok.com
